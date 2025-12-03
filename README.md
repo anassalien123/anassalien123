@@ -1,4 +1,4 @@
-[<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/ancheab" alt="ancheab's 42 stats" align="center"/></a> ](https://badge.mediaplus.ma/levi/ancheab)
+<p align="center">[<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/ancheab" alt="ancheab's 42 stats"/></a>](https://badge.mediaplus.ma/levi/ancheab)</p>
 <h1 align="center">Hi 👋, I'm Anass cheab</h1>
 <h3 align="center">"I’m Anass cheab — a self-taught developer from Morocco and a student at 1337 UM6P Rabat. I build real projects using PHP, JavaScript, React, and MySQL, and I also enjoy working with the C programming language and low-level programming. I love exploring new technologies like Docker, Cloud, and IoT, and I enjoy turning ideas into working applications. Always improving, always creating."</h3>
 
