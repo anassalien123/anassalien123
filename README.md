@@ -2,8 +2,11 @@
 <h3 align="center">"I’m Anass cheab — a self-taught developer from Morocco and a student at 1337 UM6P Rabat. I build real projects using PHP, JavaScript, React, and MySQL, and I also enjoy working with the C programming language and low-level programming. I love exploring new technologies like Docker, Cloud, and IoT, and I enjoy turning ideas into working applications. Always improving, always creating."</h3>
 
 - 🌱 I’m currently learning **c and python in ai**
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhjN2IzMHE4NjVoMWlwYjVoYTRvbWF1ZTkydHpjcTRxeTJ4c3dqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyeheChYxx2byDu/giphy.gif
 <h3 align="left">Connect with me:</h3>
+<p align="center">
+  <img alt="learning gif" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhjN2IzMHE4NjVoMWlwYjVoYTRvbWF1ZTkydHpjcTRxeTJ4c3dqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyeheChYxx2byDu/giphy.gif" />
+</p>
+
 <p align="left">
 </p>
 
