@@ -17,3 +17,8 @@
 
 [<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/ancheab" alt="ancheab's 42 stats" /></a>
 ](https://badge.mediaplus.ma/levi/ancheab)
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/levi/ancheab" alt="ancheab's 42 stats" />
+  </a>
+</p>
