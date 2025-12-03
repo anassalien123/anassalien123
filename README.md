@@ -7,7 +7,7 @@
 <p align="left">
 </p>
 <p align="center">
-  <img alt="learning gif" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm43djQ1eXFzMTdtbXB2MGIzdjRtanE2ODNlOHZyczQ4bW4wbXUzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kJ1iL1ZQIyibu/giphy.gif" />
+  <img alt="learning gif" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZlbXJ0MjZ5OWE5NjBrYjNvbThkdnI1Y2VrY2Fhc3V0MGNlemQzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif" />
 </p>
 
 
